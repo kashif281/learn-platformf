@@ -1,0 +1,336 @@
+{
+  "entities": [
+    {
+      "name": "Entity1",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity2",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity3",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity4",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity5",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity6",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity7",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity8",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity9",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    },
+    {
+      "name": "Entity10",
+      "created_at": false,
+      "updated_at": false,
+      "fields": [
+        {
+          "name": "field1",
+          "type": "varchar",
+          "nullable": false
+        },
+        {
+          "name": "field2",
+          "type": "text",
+          "nullable": true
+        },
+        {
+          "name": "field3",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field4",
+          "type": "date",
+          "nullable": false
+        },
+        {
+          "name": "field5",
+          "type": "varchar",
+          "nullable": false,
+          "default": "active"
+        }
+      ]
+    }
+  ],
+  "relationships": [],
+  "_removedEntities": []
+}
